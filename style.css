@@ -1,0 +1,40 @@
+
+/*Class & ID*/
+.blue, .red, p, h1{ color: blue;}
+
+#fff{
+    background-color: antiquewhite;
+}
+
+#aaa{
+    background-color: burlywood;
+}
+
+#sss{
+    background-color: cornsilk;
+}
+
+/*Descendants part*/
+/* used colors are: #32b0ff #fc3fff*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.primary-box {
+    background: #222;
+    color: #eee;
+    font-size: 24px;
+    margin: 0 0 10px;
+    padding: 10px;
+}
+
+.secondary-box {
+    background: #eee;
+    color: #222;
+    font-size: 24px;
+    margin: 0 0 10px;    
+    padding: 10px;
+}
